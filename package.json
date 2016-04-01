@@ -1,0 +1,26 @@
+{
+  "name": "koa-arttemplate-render",
+  "version": "1.0.0",
+  "description": "让koa可以使用arttemplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ideayuye/koa-artTemplate-render.git"
+  },
+  "keywords": [
+    "koa",
+    "arttemplate"
+  ],
+  "author": "tb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideayuye/koa-artTemplate-render/issues"
+  },
+  "homepage": "https://github.com/ideayuye/koa-artTemplate-render",
+  "dependencies": {
+    "art-template": "^3.0.3"
+  }
+}
