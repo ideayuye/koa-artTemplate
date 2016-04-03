@@ -1,5 +1,5 @@
 {
-  "name": "koa-arttemplate-render",
+  "name": "koa-arttemplate",
   "version": "1.0.0",
   "description": "让koa可以使用arttemplate",
   "main": "index.js",
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/ideayuye/koa-artTemplate-render",
   "dependencies": {
-    "art-template": "^3.0.3",
-    "debug": "^2.2.0"
+    "art-template": "^3.0.3"
   },
   "devDependencies": {
     "koa": "^1.2.0",
