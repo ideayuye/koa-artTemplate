@@ -7,7 +7,7 @@ var views   = require('../index');
 var co      = require('co');
 
 
-describe("koa-arttemplate-render",()=>{
+describe("koa-arttemplate",()=>{
     it("render",(done)=>{
         co(function*(){
             var render  = views('views');
